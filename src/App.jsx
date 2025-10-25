@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 // Assuming imNew is in a public 'assets' folder
 // For this single-file example, I'll use a placeholder.
-// const imNew = "./assets/im-new.png";
-const imNew = "https://placehold.co/160x140/2B2C30/9CA3AF?text=Image";
+const imNew = "./assets/im-new.png";
+// const imNew = "https://placehold.co/160x140/2B2C30/9CA3AF?text=Image";
 
 // --- MOCK ICONS ---
 // In a real app, you'd import these
